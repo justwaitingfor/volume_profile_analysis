@@ -6,9 +6,8 @@ pandas
 panel
 param
 yfinance
-bokeh.models
-bokeh.models.formatters
+bokeh
 diskcache
-panel.io.loading
+panel
 scipy
 awesome_panel
