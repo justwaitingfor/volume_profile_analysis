@@ -10,4 +10,4 @@ bokeh
 diskcache
 panel
 scipy
-awesome_panel_extensions
+awesome-panel-extensions
