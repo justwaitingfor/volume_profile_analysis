@@ -8,6 +8,6 @@ param
 yfinance
 bokeh
 diskcache
-panel
 scipy
+awesome_panel
 awesome-panel-extensions
